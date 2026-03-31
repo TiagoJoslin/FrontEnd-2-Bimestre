@@ -1,0 +1,27 @@
+p{
+    color: rgb(161, 32, 212);
+}
+h2{
+    color: #003f86;
+}
+h1{
+    color: rgb(222, 105, 34);
+    border: #003f86;
+    border-width: 5px;
+    border-style: double;
+}
+body{
+    background-color: beige;
+    background-image: url(./img/divert-all-available-helldivers-to-solidaritet-answer-the-v0-mx8zpgbp6gkg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 800px;
+    height: 500px;
+}
+.caixa1{
+    background-image: url(./img/extra-helldivers-propaganda-v0-3zcll947oulc1.jpg);
+    background-position: center;
+    background-size: contain;
+    width: 560px;
+    height: 750px;
+}
