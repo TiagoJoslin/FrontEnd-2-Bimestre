@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 2</title>
+</head>
+<body>
+    <h1 style="background-color: aqua;">Página 2</h1>
+    <p style="background-color: azure; width: 300px; height: 300px; border: 1px solid red;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt aut culpa quas et eveniet, enim reprehenderit magni cumque quaerat impedit distinctio quidem odit alias natus veritatis officia asperiores. Beatae, accusantium.</p>
+    <p style="background-color: azure; display: inline; width: 300px; height: 300px; border: 1px solid red;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde nemo earum illum rerum cupiditate. Eveniet impedit totam hic tempore velit et praesentium similique quisquam cupiditate dolores saepe, accusamus sequi odio?</p>
+</body>
+</html>
